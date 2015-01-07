@@ -17,8 +17,7 @@ print("5. {0}".format(pupil_5))
 print("6. {0}".format(pupil_6))
 print("7. {0}".format(pupil_7))
 print("8. {0}".format(pupil_8))
-print("0. Exit Programm")
-
+print("0. Exit Program")
 print()
 
 while test == False:
